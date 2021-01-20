@@ -1,1 +1,1 @@
-Some Basic Problem solved by JS 
+Some Basic Problem solved by Javascript.
