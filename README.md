@@ -1,2 +1,1 @@
-# javascript-basic-problem
-# javascript-basic-problems
+Some Basic Problem solved by JS 
